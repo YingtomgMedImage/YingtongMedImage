@@ -8,8 +8,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
-subtitle:
+title: Request for data
+subtitle: Clarification: Private Use
 
 content:
   # Automatically link email and phone or display as text?
@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: to be added
+  phone: to be added
   address:
     street: 450 Serra Mall
     city: Stanford
