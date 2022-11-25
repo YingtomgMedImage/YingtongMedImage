@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Request for data
-subtitle: Private Use
+subtitle: The data is for Private Use
 
 content:
   # Automatically link email and phone or display as text?

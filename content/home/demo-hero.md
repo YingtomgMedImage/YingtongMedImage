@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Theme
-hero_media: hero-academic.png
+title: YingtongMedImage
+# hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/templates/
